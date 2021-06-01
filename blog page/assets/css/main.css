@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: rgb(239, 206, 252);
+}
+.post{
+    width: 800px;
+    background-color: pink;
+    margin: 100px auto 0px;
+    text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 20px solid palevioletred;
+}
+.post h2{
+    color: purple;
+    font-family: arial;
+}
+.post p{
+    color: black;
+    font-family: arial;
+    margin-top: 10px;
+}
+.post img{
+    width: 400px;
+}
+.post a{
+    text-decoration: none;
+}
+.post a p{
+    margin-top: 0px;
+    color: palevioletred;
+    font-weight: bold;
+}
